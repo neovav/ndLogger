@@ -12,7 +12,7 @@ To use ndLogger in your project, run:
 
 ```bash
 npm i ndlogger
-# or "yarn add ndLogger"
+# or "yarn add ndlogger"
 ```
 
 ### Usage
