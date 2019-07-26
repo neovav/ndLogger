@@ -11,7 +11,7 @@ This little library for logger NodeJs applications.
 To use ndLogger in your project, run:
 
 ```bash
-npm i ndLogger
+npm i ndlogger
 # or "yarn add ndLogger"
 ```
 
