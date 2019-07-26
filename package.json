@@ -1,5 +1,5 @@
 {
-  "name": "ndlogger",
+  "name": "ndLogger",
   "version": "1.0.1",
   "description": "The logger messages",
   "main": "index.js",
