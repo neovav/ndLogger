@@ -8,6 +8,7 @@ opt[err] = __dirname + '/log/err.log';
 
 const logToConsole = req.getLogToConsole();
 con.setTime();
+con.setFloat(false);
 const logToFile = req.getLogToFile('Example work ndLogger class', __dirname + '/log/example.log', opt);
 const ndLogger = new req(logToFile);
 //const ndLogger = new req(logToConsole, logToFile);
