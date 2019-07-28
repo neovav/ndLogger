@@ -71,5 +71,5 @@ con.float('End');
 Execute script on the command line
 
 ```bash
-node sample.js
+node example.js
 ```
